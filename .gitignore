@@ -1,0 +1,26 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Diretórios de build
+dist/
+build/
+
+# Configurações de editores/IDEs
+.vscode/
+.idea/
+
+# Cache de navegadores e testes locais
+*.cache
+*.local
+
+# Arquivos do sistema operacional
+ehthumbs.db
+Icon?
